@@ -1,0 +1,9 @@
+[submodule "coreclr"]
+	path = coreclr
+	url = https://github.com/dotnet/coreclr.git
+[submodule "corefx"]
+	path = corefx
+	url = https://github.com/dotnet/corefx.git
+[submodule "wcf"]
+	path = wcf
+	url = https://github.com/dotnet/wcf.git
